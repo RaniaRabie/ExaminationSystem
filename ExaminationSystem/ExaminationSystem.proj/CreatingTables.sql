@@ -159,6 +159,9 @@ CREATE TABLE Question(
     FOREIGN KEY (Course_Id) REFERENCES Course(Course_Id)
 );
 
+Alter Table Exam.Question
+add CONSTRAINT CHK_Question_Type
+    CHECK (Question_Type in('TF', 'MCQ', 'Text'))
 
 -- Text_Question
 CREATE TABLE Text_Question(
@@ -213,9 +216,14 @@ CREATE TABLE Exam(
     FOREIGN KEY (Crs_Id) REFERENCES Course(Course_Id),
 
     CONSTRAINT CHK_Exam_Time
-    CHECK (EndTime > StartTime)
+    CHECK (EndTime > StartTime),
+
+    
 );
 
+Alter Table Exam.Exam
+add CONSTRAINT CHK_ExamType
+    CHECK (ExamType in('Corrective', 'Exam'))
 
 -- Exam_Question
 CREATE TABLE Exam_Question(

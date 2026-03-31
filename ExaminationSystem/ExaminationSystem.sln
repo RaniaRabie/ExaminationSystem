@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Version 21
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ExaminationSystem.proj", "ExaminationSystem.proj\ExaminationSystem.proj.ssmssqlproj", "{BC5C53B2-06F3-334B-DED1-325B8CA3385F}"
 EndProject
@@ -11,7 +11,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BC5C53B2-06F3-334B-DED1-325B8CA3385F}.Default|Default.ActiveCfg = Default
-		{3FC5169B-96CF-49E4-B06D-098579759DBF}.Default|Default.ActiveCfg = Default
+		{345512F2-28B7-4279-804D-38A153A8CB93}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

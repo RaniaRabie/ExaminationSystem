@@ -21,6 +21,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="Backup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:itidatahub.database.windows.net:False:hossam</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>itidatahub.database.windows.net</AssociatedConnSrvName>
+          <AssociatedConnUserName>hossam</AssociatedConnUserName>
+          <FullPath>Backup.sql</FullPath>
+        </FileNode>
         <FileNode Name="CreatingTables.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:itidatahub.database.windows.net:False:hossam</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>itidatahub.database.windows.net</AssociatedConnSrvName>
@@ -32,6 +38,12 @@
           <AssociatedConnSrvName>itidatahub.database.windows.net</AssociatedConnSrvName>
           <AssociatedConnUserName>hossam</AssociatedConnUserName>
           <FullPath>InsertData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Rania.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:itidatahub.database.windows.net:False:hossam</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>itidatahub.database.windows.net</AssociatedConnSrvName>
+          <AssociatedConnUserName>hossam</AssociatedConnUserName>
+          <FullPath>Rania.sql</FullPath>
         </FileNode>
         <FileNode Name="Schemas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:itidatahub.database.windows.net:False:hossam</AssociatedConnectionMoniker>
