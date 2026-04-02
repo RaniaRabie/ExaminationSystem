@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\.Net ITI Training\\Backend\\Database ITI - SQL Server ITI - eng-rami\\SQL_Project\\ExaminationSystem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5C53B2-06F3-334B-DED1-325B8CA3385F}|ExaminationSystem.proj\\ExaminationSystem.proj.ssmssqlproj|E:\\.Net ITI Training\\Backend\\Database ITI - SQL Server ITI - eng-rami\\SQL_Project\\ExaminationSystem\\ExaminationSystem.proj\\CreatingTables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
-      "RelativeMoniker": "D:0:0:{BC5C53B2-06F3-334B-DED1-325B8CA3385F}|ExaminationSystem.proj\\ExaminationSystem.proj.ssmssqlproj|solutionrelative:ExaminationSystem.proj\\CreatingTables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5C53B2-06F3-334B-DED1-325B8CA3385F}|ExaminationSystem.proj\\ExaminationSystem.proj.ssmssqlproj|E:\\.Net ITI Training\\Backend\\Database ITI - SQL Server ITI - eng-rami\\SQL_Project\\ExaminationSystem\\ExaminationSystem.proj\\InsertData.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
-      "RelativeMoniker": "D:0:0:{BC5C53B2-06F3-334B-DED1-325B8CA3385F}|ExaminationSystem.proj\\ExaminationSystem.proj.ssmssqlproj|solutionrelative:ExaminationSystem.proj\\InsertData.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5C53B2-06F3-334B-DED1-325B8CA3385F}|ExaminationSystem.proj\\ExaminationSystem.proj.ssmssqlproj|E:\\.Net ITI Training\\Backend\\Database ITI - SQL Server ITI - eng-rami\\SQL_Project\\ExaminationSystem\\ExaminationSystem.proj\\Schemas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
-      "RelativeMoniker": "D:0:0:{BC5C53B2-06F3-334B-DED1-325B8CA3385F}|ExaminationSystem.proj\\ExaminationSystem.proj.ssmssqlproj|solutionrelative:ExaminationSystem.proj\\Schemas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,39 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3eb44d79-dda1-4580-b810-0808975173e4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreatingTables.sql - not connected",
-              "DocumentMoniker": "E:\\.Net ITI Training\\Backend\\Database ITI - SQL Server ITI - eng-rami\\SQL_Project\\ExaminationSystem\\ExaminationSystem.proj\\CreatingTables.sql",
-              "RelativeDocumentMoniker": "ExaminationSystem.proj\\CreatingTables.sql",
-              "ToolTip": "CreatingTables.sql - not connected",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-31T16:53:07.902Z",
-              "EditorCaption": " - not connected"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InsertData.sql - not connected",
-              "DocumentMoniker": "E:\\.Net ITI Training\\Backend\\Database ITI - SQL Server ITI - eng-rami\\SQL_Project\\ExaminationSystem\\ExaminationSystem.proj\\InsertData.sql",
-              "RelativeDocumentMoniker": "ExaminationSystem.proj\\InsertData.sql",
-              "ToolTip": "InsertData.sql - not connected",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-31T16:53:03.118Z",
-              "EditorCaption": " - not connected"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Schemas.sql - not connected",
-              "DocumentMoniker": "E:\\.Net ITI Training\\Backend\\Database ITI - SQL Server ITI - eng-rami\\SQL_Project\\ExaminationSystem\\ExaminationSystem.proj\\Schemas.sql",
-              "RelativeDocumentMoniker": "ExaminationSystem.proj\\Schemas.sql",
-              "ToolTip": "Schemas.sql - not connected",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-03-31T16:52:56.881Z",
-              "EditorCaption": " - not connected"
             }
           ]
         }
