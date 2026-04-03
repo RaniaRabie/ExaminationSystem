@@ -2,7 +2,22 @@
 <SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="ExaminationSystem">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
-      <Items />
+      <Items>
+        <ConnectionNode Name="(local):RANIA\mgrgm">
+          <Created>2026-04-03T18:25:55.7758109+02:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>30</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
@@ -12,23 +27,23 @@
           <AssociatedConnUserName />
           <FullPath>backupQuery.sql</FullPath>
         </FileNode>
-        <FileNode Name="Basma.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>Basma.sql</FullPath>
-        </FileNode>
         <FileNode Name="CreatingTables.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>CreatingTables.sql</FullPath>
         </FileNode>
-        <FileNode Name="Hossam.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+        <FileNode Name="Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Hossam.sql</FullPath>
+          <FullPath>Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Indexes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Indexes.sql</FullPath>
         </FileNode>
         <FileNode Name="insertingData.sql">
           <AssociatedConnectionMoniker />
@@ -42,23 +57,35 @@
           <AssociatedConnUserName />
           <FullPath>LoginAndPermissions.sql</FullPath>
         </FileNode>
-        <FileNode Name="Rania.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>Rania.sql</FullPath>
-        </FileNode>
         <FileNode Name="Schema.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>Schema.sql</FullPath>
         </FileNode>
+        <FileNode Name="StoredProcedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StoredProcedures.sql</FullPath>
+        </FileNode>
         <FileNode Name="TestingCases.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>TestingCases.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Views.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
